@@ -1,0 +1,34 @@
+[
+  {
+    "progress": 25,
+    "_id": "5f520db8a77cab5e9d9faf2a",
+    "title": "Спросить у Жени",
+    "text": "почему ручка не видит package.json",
+    "createdAt": "2020-09-04T09:49:44.612Z",
+    "__v": 0
+  },
+  {
+    "progress": 100,
+    "_id": "5f520df8a77cab5e9d9faf2b",
+    "title": "nodemailer",
+    "text": "Отправка мейла с таск файлом",
+    "createdAt": "2020-09-04T09:50:48.575Z",
+    "__v": 0
+  },
+  {
+    "progress": 50,
+    "_id": "5f520e00a77cab5e9d9faf2c",
+    "title": "auth",
+    "text": "запилить",
+    "createdAt": "2020-09-04T09:50:56.343Z",
+    "__v": 0
+  },
+  {
+    "progress": 0,
+    "_id": "5f5230c32e80f96cf726b52e",
+    "title": "Нае...ся",
+    "text": "культурно провести вечер",
+    "createdAt": "2020-09-04T12:19:15.341Z",
+    "__v": 0
+  }
+]
